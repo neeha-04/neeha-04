@@ -26,7 +26,7 @@
 ### 💼 Experience
 | Role | Company | Duration |
 |------|---------|----------|
-| 🔐 Cyber Security Intern | InternPe | June 2026 – Present |
+| 🔐 Cyber Security Intern | InternPe | June 2026 – August 2026 |
 | 🐍 Python Programming Intern | SyntecxHub | Apr 2026 – May 2026 |
 
 ---
