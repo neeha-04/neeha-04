@@ -15,7 +15,7 @@
 ---
 
 <!-- TWO COLUMN GRID CONFIGURATION -->
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <!-- LEFT COLUMN: ABOUT ME -->
     <td width="55%" valign="top">
@@ -65,14 +65,14 @@
 
 ### 💻 Featured Deployments & Research
 
-<table>
+<table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🌤️ Full-Stack Weather Engine</h4>
       <p>React.js + Python REST API infrastructure deployed over Vercel and Render. Includes live multi-day forecasts and secure lookup persistence.</p>
       <code>React</code> <code>Python API</code> <code>CRUD</code>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>⛓️ SafeDox Architecture</h4>
       <p>Research layout exploring secure decentralized document dispersal using Blockchain ledger state and IPFS end-to-end encryption frameworks.</p>
       <code>Web3</code> <code>Security</code> <code>Decentralized</code>
