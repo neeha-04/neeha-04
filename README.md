@@ -8,7 +8,7 @@
 ### 📬 Connect With Me
 - 📧 **Email:** neehashakthi@gmail.com
 - 🐙 **GitHub:** [github.com/neeha-04](https://github.com)
-- 💼 **LinkedIn:** [Add your profile link here]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/neeharika-shakthivelan-3682a6311/
 
 ---
 
