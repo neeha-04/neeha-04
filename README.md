@@ -71,7 +71,7 @@ A full-stack weather application with live weather information, multi-day foreca
 
 **Tech:** `React.js` `Python` `REST API` `CRUD`
 
-<sub>🌐 <b>Live Demo:</b> <a href="https://weather-app-pm-accelerator-assessment-1.onrender.com/">View Project</a></sub>
+🌐 **Live Demo:** [View Project](https://weather-app-pm-accelerator-assessment-1.onrender.com/)
 
 ---
 
