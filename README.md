@@ -62,7 +62,7 @@ A cybersecurity-focused project bringing security-related functionality into a s
 
 **Tech:** `Python` `Flask` `Cybersecurity`
 
-**Repo link:** [View Project](https://github.com/neeha-04/SecuritySuite)
+<sub>🔗 <b>Repository:</b> <a href="https://github.com/neeha-04/SecuritySuite">View Project</a></sub>
 ---
 
 ### 🌤️ Weather App
@@ -71,7 +71,7 @@ A full-stack weather application with live weather information, multi-day foreca
 
 **Tech:** `React.js` `Python` `REST API` `CRUD`
 
-🌐 **Live Demo:** [View Project](https://weather-app-pm-accelerator-assessment-1.onrender.com/)
+<sub>🌐 <b>Live Demo:</b> <a href="https://weather-app-pm-accelerator-assessment-1.onrender.com/">View Project</a></sub>
 
 ---
 
@@ -86,7 +86,7 @@ Published in **IJARCCE — May 2026**
 **Research Areas:**  
 `Cybersecurity` `Blockchain` `IPFS` `End-to-End Encryption`
 
-**Link:** [View Paper](https://ijarcce.com/papers/safedox-a-review-on-secure-document-sharing-using-blockchain-ipfs-and-end-to-end-encryption/)
+<sub>📄 <b>Research Paper:</b> <a href="https://ijarcce.com/papers/safedox-a-review-on-secure-document-sharing-using-blockchain-ipfs-and-end-to-end-encryption/">View Paper</a></sub>
 ---
 
 ## 🏆 Achievements & Certifications
