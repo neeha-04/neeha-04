@@ -62,6 +62,7 @@ A cybersecurity-focused project bringing security-related functionality into a s
 
 **Tech:** `Python` `Flask` `Cybersecurity`
 
+**Repo link:** [View Project](https://github.com/neeha-04/SecuritySuite)
 ---
 
 ### 🌤️ Weather App
@@ -85,6 +86,7 @@ Published in **IJARCCE — May 2026**
 **Research Areas:**  
 `Cybersecurity` `Blockchain` `IPFS` `End-to-End Encryption`
 
+**Link:** [View Paper](https://ijarcce.com/papers/safedox-a-review-on-secure-document-sharing-using-blockchain-ipfs-and-end-to-end-encryption/)
 ---
 
 ## 🏆 Achievements & Certifications
